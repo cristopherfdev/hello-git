@@ -1,4 +1,4 @@
-name = "Steph"
+name = "Chris"
 lastName = "Fernandez"
 
 greating = ("Hola "+ name + " " + lastName + "How you doing?")
